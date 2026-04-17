@@ -1,0 +1,18 @@
+Constructo nº1: Términos MeSH que engloban la enfermedad Amiloidosis De Cadena Ligera
+("Metabolic Diseases/Proteostasis Deficiencies"[MeSH] OR "Metabolic Diseases/Proteostasis Deficiencies"[MeSH] OR "Neoplasms/Plasma Cell"[MeSH] OR "Inmune System Diseases/Lymphoproliferative Disorders"[MeSH] 
+OR "Inmune System Diseases/Paraproteinemias"[MeSH] OR "amyloidosis"[tiab] OR "systemic amyloidosis"[tiab])
+
+Constructo nº2: Amiloidosis de Cadena Ligera
+("amyloidosis"[MeSH] OR "amyloidosis"[tiab] OR "AL amyloidosis"[tiab] OR "light chain amyloidosis"[tiab] OR "primary amyloidosis"[tiab] OR "immunoglobulin light chain amyloidosis"[tiab])
+
+Constructo nº3: Biomarcadores
+("biomarkers"[MeSH] OR "echocardiography"[MeSH] OR "biomarker"[tiab] OR "biological marker"[tiab] OR "clinical marker"[tiab] OR "diagnostic marker"[tiab] OR "prognostic marker"[tiab] 
+OR "NT-proBNP"[tiab] OR "BNP"[tiab] OR "troponin"[MeSH] OR "troponin"[tiab] OR "free light chain"[tiab] OR "FLC"[tiab] OR "dFLC"[tiab])
+
+Constructo nº4: Términos MeSH bioinformática
+("Informatics"[MeSH] OR "Multiomics"[MeSH] OR "Computational Biology"[MeSH] OR "proteomic"[tiab] OR "proteomics"[MeSH] OR "genomic"[tiab] OR "metabolomic"[tiab] OR
+"transcriptomics"[tiab] OR "machine learning"[tiab] OR "artificial intelligence"[tiab] OR "computational biology"[tiab] OR "multiomics"[tiab] OR "multi-omics"[tiab] OR "bioinformatics"[tiab])
+
+Constructo nº5: Outcomes clínicos
+("diagnosis"[MeSH] OR "prognosis"[MeSH] OR "diagnosis"[tiab] OR "diagnostic accuracy"[tiab] OR "prognosis"[tiab] OR "survival"[tiab] OR 
+"overall survival"[tiab] OR "treatment response"[tiab] OR "hematologic response"[tiab] OR "organ response"[tiab] OR "monitoring"[tiab] OR "staging"[tiab])
