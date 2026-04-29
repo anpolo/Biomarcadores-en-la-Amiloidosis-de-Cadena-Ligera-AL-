@@ -1,0 +1,9 @@
+TITLE-ABS-KEY("Neoplasms" OR "Paraproteinemias" OR "Proteostasis Deficiencies" OR "Immunoproliferative Disorders" OR "AL amyloidosis" OR "primary amyloidosis" OR "systemic amyloidosis" OR "plasma cell dyscrasia" OR "monoclonal protein" OR "monoclonal gammopathy")
+AND
+TITLE-ABS-KEY("amyloidosis" OR "Immunoglobulin Light-chain Amyloidosis" OR "amyloidosis" OR "AL amyloidosis" OR "light chain amyloidosis" OR "primary amyloidosis" OR "amyloid light chain" OR "immunoglobulin light chain amyloidosis")
+AND
+TITLE-ABS-KEY("biomarkers*" OR "echocardiography" OR "biomarker" OR "biological marker" OR "clinical marker" OR "diagnostic marker" OR "prognostic marker" OR "novel biomarker" OR "novel marker")
+AND
+TITLE-ABS-KEY("Informatics" OR "Multiomics" OR "Computational Biology" OR "proteom*" OR "proteomics" OR "genom*" OR "metabol*" OR "transcript*" OR "machine learning" OR "artificial intelligence" OR "computational biology" OR "multiomics" OR "multi-omics" OR "bioinformatics")
+AND
+TITLE-ABS-KEY("diagnosis" OR "prognosis" OR "diagnosis" OR "diagnostic accuracy" OR "prognosis" OR "survival" OR "overall survival" OR "treatment response" OR "hematologic response" OR "organ response" OR "monitoring" OR "staging")
