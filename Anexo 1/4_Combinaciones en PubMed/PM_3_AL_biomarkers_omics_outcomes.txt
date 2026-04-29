@@ -1,8 +1,0 @@
-(("amyloidosis"[MeSH] OR "Immunoglobulin Light-chain Amyloidosis"[MeSH] OR "amyloidosis"[tiab] OR "AL amyloidosis"[tiab] OR "light chain amyloidosis"[tiab] OR "primary amyloidosis"[tiab] OR "amyloid light chain"[tiab] OR "immunoglobulin light chain amyloidosis"[tiab]))
-AND
-(("biomarkers*"[MeSH] OR "echocardiography"[MeSH] OR "biomarker"[tiab] OR "biological marker"[tiab] OR "clinical marker"[tiab] OR "diagnostic marker"[tiab] OR "prognostic marker"[tiab] OR "novel biomarker"[tiab] OR "novel marker"[tiab]))
-AND
-(("Informatics"[MeSH] OR "Multiomics"[MeSH] OR "Computational Biology"[MeSH] OR "proteom*"[tiab] OR "proteomics"[MeSH] OR "genom*"[tiab] OR "metabol*"[tiab] OR "transcript*"[tiab] OR "machine learning"[tiab] OR "artificial intelligence"[tiab] OR "computational biology"[tiab] OR "multiomics"[tiab] OR "multi-omics"[tiab] OR "bioinformatics"[tiab]))
-AND
-(("diagnosis"[MeSH] OR "prognosis"[MeSH] OR "diagnosis"[tiab] OR "diagnostic accuracy"[tiab] OR "prognosis"[tiab] OR "survival"[tiab] OR 
-"overall survival"[tiab] OR "treatment response"[tiab] OR "hematologic response"[tiab] OR "organ response"[tiab] OR "monitoring"[tiab] OR "staging"[tiab]))
