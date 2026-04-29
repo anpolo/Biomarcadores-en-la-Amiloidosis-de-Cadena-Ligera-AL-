@@ -1,3 +1,4 @@
+
 Constructo nº1: Términos MeSH que engloban la enfermedad Amiloidosis 
 ("Neoplasms"[MeSH] OR "Paraproteinemias"[MeSH] OR "Proteostasis Deficiencies"[MeSH] OR "Immunoproliferative Disorders"[MeSH] OR "AL amyloidosis"[tiab] OR
 "primary amyloidosis"[tiab] OR "systemic amyloidosis"[tiab] OR "plasma cell dyscrasia"[tiab] OR "monoclonal protein"[tiab] OR "monoclonal gammopathy"[tiab])
@@ -8,7 +9,7 @@ Constructo nº2: Amiloidosis de Cadena Ligera
 
 Constructo nº3: Biomarcadores
 ("biomarkers*"[MeSH] OR "echocardiography"[MeSH] OR "biomarker"[tiab] OR "biological marker"[tiab] OR "clinical marker"[tiab] OR "diagnostic marker"[tiab] OR "prognostic marker"[tiab] 
-OR "NT-proBNP"[tiab] OR "BNP"[tiab] OR "troponin"[MeSH] OR "troponin"[tiab] OR "free light chain"[tiab] OR "FLC"[tiab] OR "dFLC"[tiab])
+OR "novel biomarker"[tiab] OR "novel marker"[tiab])
 
 Constructo nº4: Términos MeSH bioinformática
 ("Informatics"[MeSH] OR "Multiomics"[MeSH] OR "Computational Biology"[MeSH] OR "proteom*"[tiab] OR "proteomics"[MeSH] OR "genom*"[tiab] OR "metabol*"[tiab] OR
