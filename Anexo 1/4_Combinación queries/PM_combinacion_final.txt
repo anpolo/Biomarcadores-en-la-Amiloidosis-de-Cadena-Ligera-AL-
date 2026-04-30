@@ -1,4 +1,4 @@
-(("amyloidosis"[MeSH] OR "Immunoglobulin Light-chain Amyloidosis"[MeSH] OR "amyloidosis"[tiab] OR "AL amyloidosis"[tiab] OR "light chain amyloidosis"[tiab] OR "primary amyloidosis"[tiab] OR "amyloid light chain"[tiab] OR "immunoglobulin light chain amyloidosis"[tiab]))
+(("Immunoglobulin Light-chain Amyloidosis"[MeSH] OR "AL amyloidosis"[tiab] OR "light chain amyloidosis"[tiab] OR "primary amyloidosis"[tiab] OR "amyloid light chain"[tiab] OR "immunoglobulin light chain amyloidosis"[tiab]))
 AND
 (
 "biomarkers*"[MeSH] OR "echocardiography"[MeSH] OR "biomarker"[tiab] OR "biological marker"[tiab] OR "clinical marker"[tiab] OR "diagnostic marker"[tiab] OR "prognostic marker"[tiab] OR "novel biomarker"[tiab] OR "novel marker"[tiab]
