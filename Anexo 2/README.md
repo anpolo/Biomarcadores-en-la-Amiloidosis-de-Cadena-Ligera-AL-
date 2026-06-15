@@ -8,10 +8,10 @@ Anexo 2
 │
 ├── 1_Historial de búsqueda/
 │   ├── PubMed/
-│       ├── resultado_pubmed.txt
-│       └── resultados_pubmed.csv
+│   │   ├── resultado_pubmed.txt
+│   │   └── resultados_pubmed.csv
 │   ├── Scopus/
-│       └── resultado_scopus.csv
+│   │   └── resultado_scopus.csv
 │   └── resumen_busqueda.csv
 │
 ├── 2_Resultados/            
