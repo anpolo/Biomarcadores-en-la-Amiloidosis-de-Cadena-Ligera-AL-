@@ -11,8 +11,7 @@ Anexo 3
 │   └── incluidos.csv
 │
 ├── 2_Screening_manual/            
-│   └── estudios_definitivos.txt
-│
+│   └── estudios_definitivos.csv
 │
 └── 3_Scripts/
     └── script4_tiab screening.py
