@@ -25,13 +25,11 @@ Revision_PRISMA_sobre_biomarcadores_noveles_en_Amiloidosis_AL/
 ├── Anexo_3/                       # Documentación relacionada con el *screening* automático y manual.
 │
 └── Anexo_4/                       # Documentación relacionada con el *screening* de textos completos y los resultados obtenidos.
-
+```
 Cada anexo cuenta con su propio README.md
 
-<br><br>
----
-<br><br>
+
 
 ## Información de contacto
-**Autora**: Andrea Polo Martín
-**Correo**: axdrxa02@gmail.com
+- **Autora**: Andrea Polo Martín
+- **Correo**: axdrxa02@gmail.com
