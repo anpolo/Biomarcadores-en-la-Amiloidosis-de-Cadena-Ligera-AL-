@@ -28,6 +28,8 @@ Revision_PRISMA_sobre_biomarcadores_noveles_en_Amiloidosis_AL/
 
 Cada anexo cuenta con su propio README.md
 
+---
+
 ## Información de contacto
 **Autora**: Andrea Polo Martín
 **Correo**: axdrxa02@gmail.com
