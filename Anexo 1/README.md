@@ -12,7 +12,7 @@ Anexo 1
 │   ├── constructo_3_bioinformatica.txt
 │   └── constructo_4_outcomes.txt
 │
-├── 2_Queries_PubMed/            
+├── 2_Queries PubMed/            
 │   ├── PM_query_1.txt
 │   ├── PM_query_2.txt
 │   ├── PM_query_3.txt
