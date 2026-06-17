@@ -15,13 +15,7 @@ Anexo 4
 │   ├── fig4_tecnicas.png
 │   └── fig5_sunburst.png
 │
-├── 3_Queries Scopus/               
-│   ├── Scopus_query_1.txt
-│   ├── Scopus_query_2.txt
-│   ├── Scopus_query_3.txt
-│   └── Scopus_query_4.txt
-│
-└── 5_Scripts/
+└── 3_Scripts/
     ├── extraccion_udfs.py
     ├── figuras_fulltext.py
     ├── fulltext.ipynb                       # notebook interactivo de extracción de datos
