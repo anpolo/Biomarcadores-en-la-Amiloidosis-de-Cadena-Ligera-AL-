@@ -44,11 +44,11 @@ def create_biomarkers_table():
     columns = [
         'article_id',       # ID del artículo asociado
         'biomarker_name',   # Nombre/s del biomarcador
-        'biomarker_type',   # Tipo: proteómico, genómico, imagen, circulante...
-        'sample_type',      # Tipo de muestra: suero, plasma, orina, tejido, imagen...
+        'biomarker_type',   # Tipo
+        'sample_type',      # Tipo de muestra
         'clinical_purpose', # Propósito: diagnóstico, pronóstico, monitorización...
-        'validation_status',# Estado de validación: exploratoria, validada, uso clínico
-        'main_findings',    # Hallazgos principales + métricas de rendimiento
+        'validation_status',# Estado de validación
+        'main_findings',    # Hallazgos principales 
         'limitations',      # Limitaciones
     ]
     return pd.DataFrame(columns=columns)
@@ -172,9 +172,9 @@ def review(author, include, reviewed, studies_df):
             bm_name    = input("Nombre/s del biomarcador: ")
             bm_type    = input("Tipo (proteómico/genómico/imagen/circulante/panel): ")
             bm_sample  = input("Tipo de muestra (suero/plasma/orina/tejido/imagen): ")
-            bm_purpose = input("Propósito/potencial clínico (diagnóstico/pronóstico/monitorización/varios): ")
-            bm_val     = input("Estado de validación (exploratoria/validada externamente/uso clínico): ")
-            bm_find    = input("Hallazgos principales + métricas (AUC, HR, p-value...): ")
+            bm_purpose = input("Propósito clínico (diagnóstico/pronóstico/monitorización/varios): ")
+            bm_val     = input("Estado de validación: ")
+            bm_find    = input("Hallazgos principales: ")
             bm_lim     = input("Limitaciones: ")
 
             add_biomarker(
