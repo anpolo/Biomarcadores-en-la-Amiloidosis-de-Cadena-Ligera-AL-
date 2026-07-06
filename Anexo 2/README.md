@@ -19,5 +19,5 @@ Anexo 2
 │   └── resumen_deduplicados.csv
 │
 └── 3_Scripts/               
-    ├── script2_queries.py
+    ├── script2_pubmed_to_csv.py
     └── script3_deduplicación.py
