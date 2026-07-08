@@ -7,11 +7,8 @@ Anexo 2
 ├── README.md
 │
 ├── 1_Historial de búsqueda/
-│   ├── PubMed/
-│   │   ├── resultado_pubmed.txt
-│   │   └── resultados_pubmed.csv
-│   ├── Scopus/
-│   │   └── resultado_scopus.csv
+│   ├── resultados_pubmed.csv
+│   ├── resultado_scopus.csv
 │   └── resumen_busqueda.csv
 │
 ├── 2_Resultados/            
